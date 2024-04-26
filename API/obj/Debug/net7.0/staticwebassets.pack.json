@@ -1,0 +1,113 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\a136147\\Repos\\Angular_DotNet_ECommerceApp\\API\\wwwroot\\187.3f89f8dda6e8a837.js",
+      "PackagePath": "staticwebassets\\187.3f89f8dda6e8a837.js"
+    },
+    {
+      "Id": "C:\\Users\\a136147\\Repos\\Angular_DotNet_ECommerceApp\\API\\wwwroot\\207.94788854e2426271.js",
+      "PackagePath": "staticwebassets\\207.94788854e2426271.js"
+    },
+    {
+      "Id": "C:\\Users\\a136147\\Repos\\Angular_DotNet_ECommerceApp\\API\\wwwroot\\333.d3c995fcef704013.js",
+      "PackagePath": "staticwebassets\\333.d3c995fcef704013.js"
+    },
+    {
+      "Id": "C:\\Users\\a136147\\Repos\\Angular_DotNet_ECommerceApp\\API\\wwwroot\\3rdpartylicenses.txt",
+      "PackagePath": "staticwebassets\\3rdpartylicenses.txt"
+    },
+    {
+      "Id": "C:\\Users\\a136147\\Repos\\Angular_DotNet_ECommerceApp\\API\\wwwroot\\481.9a797fbd8f5fd2a9.js",
+      "PackagePath": "staticwebassets\\481.9a797fbd8f5fd2a9.js"
+    },
+    {
+      "Id": "C:\\Users\\a136147\\Repos\\Angular_DotNet_ECommerceApp\\API\\wwwroot\\920.1882ac29d9f06436.js",
+      "PackagePath": "staticwebassets\\920.1882ac29d9f06436.js"
+    },
+    {
+      "Id": "C:\\Users\\a136147\\Repos\\Angular_DotNet_ECommerceApp\\API\\wwwroot\\assets\\images\\hero1.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\hero1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\a136147\\Repos\\Angular_DotNet_ECommerceApp\\API\\wwwroot\\assets\\images\\hero2.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\hero2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\a136147\\Repos\\Angular_DotNet_ECommerceApp\\API\\wwwroot\\assets\\images\\hero3.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\hero3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\a136147\\Repos\\Angular_DotNet_ECommerceApp\\API\\wwwroot\\assets\\images\\logo.png",
+      "PackagePath": "staticwebassets\\assets\\images\\logo.png"
+    },
+    {
+      "Id": "C:\\Users\\a136147\\Repos\\Angular_DotNet_ECommerceApp\\API\\wwwroot\\assets\\images\\placeholder.png",
+      "PackagePath": "staticwebassets\\assets\\images\\placeholder.png"
+    },
+    {
+      "Id": "C:\\Users\\a136147\\Repos\\Angular_DotNet_ECommerceApp\\API\\wwwroot\\common.bd884877f7f0ba29.js",
+      "PackagePath": "staticwebassets\\common.bd884877f7f0ba29.js"
+    },
+    {
+      "Id": "C:\\Users\\a136147\\Repos\\Angular_DotNet_ECommerceApp\\API\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\a136147\\Repos\\Angular_DotNet_ECommerceApp\\API\\wwwroot\\fontawesome-webfont.2b13baa7dd4f54c9.eot",
+      "PackagePath": "staticwebassets\\fontawesome-webfont.2b13baa7dd4f54c9.eot"
+    },
+    {
+      "Id": "C:\\Users\\a136147\\Repos\\Angular_DotNet_ECommerceApp\\API\\wwwroot\\fontawesome-webfont.8a7cb27d142e3e19.ttf",
+      "PackagePath": "staticwebassets\\fontawesome-webfont.8a7cb27d142e3e19.ttf"
+    },
+    {
+      "Id": "C:\\Users\\a136147\\Repos\\Angular_DotNet_ECommerceApp\\API\\wwwroot\\fontawesome-webfont.cf011583fb81df9f.woff",
+      "PackagePath": "staticwebassets\\fontawesome-webfont.cf011583fb81df9f.woff"
+    },
+    {
+      "Id": "C:\\Users\\a136147\\Repos\\Angular_DotNet_ECommerceApp\\API\\wwwroot\\fontawesome-webfont.da909aa098b0ee2d.svg",
+      "PackagePath": "staticwebassets\\fontawesome-webfont.da909aa098b0ee2d.svg"
+    },
+    {
+      "Id": "C:\\Users\\a136147\\Repos\\Angular_DotNet_ECommerceApp\\API\\wwwroot\\fontawesome-webfont.e9955780856cf8aa.woff2",
+      "PackagePath": "staticwebassets\\fontawesome-webfont.e9955780856cf8aa.woff2"
+    },
+    {
+      "Id": "C:\\Users\\a136147\\Repos\\Angular_DotNet_ECommerceApp\\API\\wwwroot\\index.html",
+      "PackagePath": "staticwebassets\\index.html"
+    },
+    {
+      "Id": "C:\\Users\\a136147\\Repos\\Angular_DotNet_ECommerceApp\\API\\wwwroot\\main.5a96f0f8b6a1e6e1.js",
+      "PackagePath": "staticwebassets\\main.5a96f0f8b6a1e6e1.js"
+    },
+    {
+      "Id": "C:\\Users\\a136147\\Repos\\Angular_DotNet_ECommerceApp\\API\\wwwroot\\polyfills.f91a65f870354b2e.js",
+      "PackagePath": "staticwebassets\\polyfills.f91a65f870354b2e.js"
+    },
+    {
+      "Id": "C:\\Users\\a136147\\Repos\\Angular_DotNet_ECommerceApp\\API\\wwwroot\\runtime.1a36a8c8176a89a5.js",
+      "PackagePath": "staticwebassets\\runtime.1a36a8c8176a89a5.js"
+    },
+    {
+      "Id": "C:\\Users\\a136147\\Repos\\Angular_DotNet_ECommerceApp\\API\\wwwroot\\styles.e03f01a639544ed3.css",
+      "PackagePath": "staticwebassets\\styles.e03f01a639544ed3.css"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.API.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.build.API.props",
+      "PackagePath": "build\\API.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildMultiTargeting.API.props",
+      "PackagePath": "buildMultiTargeting\\API.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildTransitive.API.props",
+      "PackagePath": "buildTransitive\\API.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
