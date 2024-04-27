@@ -1,4 +1,3 @@
-using System.Security.Claims;
 using API.Dtos;
 using API.Errors;
 using API.Extensions;
@@ -17,6 +16,8 @@ public class AccountController : BaseApiController
     private readonly SignInManager<AppUser> _signInManager;
     private readonly ITokenService _tokenService;
     private readonly IMapper _mapper;
+    private static readonly string[] error = new[] { "Email address is in use" };
+
     public AccountController(UserManager<AppUser> userManager, SignInManager<AppUser> signInManager,
         ITokenService tokenService, IMapper mapper)
     {
@@ -65,7 +66,8 @@ public class AccountController : BaseApiController
         if (CheckEmailExistsAsync(registerDto.Email).Result.Value)
         {
             return new BadRequestObjectResult(new ApiValidationErrorResponse 
-                { Errors = new[] { "Email address is in use" } });
+                { Errors = error
+            });
         }
 
         var user = new AppUser

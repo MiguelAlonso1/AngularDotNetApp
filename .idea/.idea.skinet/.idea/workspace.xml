@@ -18,6 +18,7 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="ROOT_SYNC" value="SYNC" />
   </component>
   <component name="GitHubPullRequestSearchHistory">{
   &quot;lastFilter&quot;: {
@@ -27,7 +28,7 @@
 }</component>
   <component name="GithubPullRequestsUISettings">{
   &quot;selectedUrlAndAccountId&quot;: {
-    &quot;url&quot;: &quot;https://github.com/MiguelAlonso1/DotNetAngularEcommerceApp.git&quot;,
+    &quot;url&quot;: &quot;https://github.com/MiguelAlonso1/AngularDotNetApp.git&quot;,
     &quot;accountId&quot;: &quot;c1b1a1d8-1b30-4668-acb6-c90e79f4e741&quot;
   }
 }</component>
@@ -48,6 +49,7 @@
   &quot;keyToString&quot;: {
     &quot;.NET Launch Settings Profile.API: https.executor&quot;: &quot;Run&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
@@ -104,7 +106,7 @@
       <workItem from="1714084061828" duration="19000" />
       <workItem from="1714084095063" duration="1253000" />
       <workItem from="1714153071285" duration="159000" />
-      <workItem from="1714153242369" duration="7339000" />
+      <workItem from="1714153242369" duration="13905000" />
     </task>
     <servers />
   </component>

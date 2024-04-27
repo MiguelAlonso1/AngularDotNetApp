@@ -19,3 +19,4 @@ C:\Users\a136147\Repos\Angular_DotNet_ECommerceApp\Infrastructure\obj\Debug\net7
 C:\Users\a136147\Repos\Angular_DotNet_ECommerceApp\Infrastructure\obj\Debug\net7.0\ref\Infrastructure.dll
 C:\Users\a136147\Repos\Angular_DotNet_ECommerceApp\Infrastructure\bin\Debug\net7.0\Infrastructure.runtimeconfig.json
 C:\Users\a136147\Repos\Angular_DotNet_ECommerceApp\Infrastructure\obj\Debug\net7.0\Infrastructure.genruntimeconfig.cache
+C:\Users\a136147\Repos\Angular_DotNet_ECommerceApp\Infrastructure\obj\Debug\net7.0\Infrastructure.sourcelink.json

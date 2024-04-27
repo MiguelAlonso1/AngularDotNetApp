@@ -10,3 +10,4 @@ C:\Users\a136147\Repos\Angular_DotNet_ECommerceApp\Core\obj\Debug\net7.0\Core.dl
 C:\Users\a136147\Repos\Angular_DotNet_ECommerceApp\Core\obj\Debug\net7.0\refint\Core.dll
 C:\Users\a136147\Repos\Angular_DotNet_ECommerceApp\Core\obj\Debug\net7.0\Core.pdb
 C:\Users\a136147\Repos\Angular_DotNet_ECommerceApp\Core\obj\Debug\net7.0\ref\Core.dll
+C:\Users\a136147\Repos\Angular_DotNet_ECommerceApp\Core\obj\Debug\net7.0\Core.sourcelink.json

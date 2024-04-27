@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "MXpmwwTSsB26ZQQpT5Yl1+ubAFNTRf5znIFxWRY+usU=",
+  "Hash": "X2gOetVNrKPfAmIoja3lb5+EJQkSuHBxy98c3VGgOQA=",
   "Source": "API",
   "BasePath": "_content/API",
   "Mode": "Default",
@@ -378,12 +378,12 @@
       "OriginalItemSpec": "wwwroot\\index.html"
     },
     {
-      "Identity": "C:\\Users\\a136147\\Repos\\Angular_DotNet_ECommerceApp\\API\\wwwroot\\main.5a96f0f8b6a1e6e1.js",
+      "Identity": "C:\\Users\\a136147\\Repos\\Angular_DotNet_ECommerceApp\\API\\wwwroot\\main.1b50771fe157b452.js",
       "SourceId": "API",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\a136147\\Repos\\Angular_DotNet_ECommerceApp\\API\\wwwroot\\",
       "BasePath": "_content/API",
-      "RelativePath": "main.5a96f0f8b6a1e6e1.js",
+      "RelativePath": "main.1b50771fe157b452.js",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -394,7 +394,7 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\main.5a96f0f8b6a1e6e1.js"
+      "OriginalItemSpec": "wwwroot\\main.1b50771fe157b452.js"
     },
     {
       "Identity": "C:\\Users\\a136147\\Repos\\Angular_DotNet_ECommerceApp\\API\\wwwroot\\polyfills.f91a65f870354b2e.js",
@@ -416,12 +416,12 @@
       "OriginalItemSpec": "wwwroot\\polyfills.f91a65f870354b2e.js"
     },
     {
-      "Identity": "C:\\Users\\a136147\\Repos\\Angular_DotNet_ECommerceApp\\API\\wwwroot\\runtime.1a36a8c8176a89a5.js",
+      "Identity": "C:\\Users\\a136147\\Repos\\Angular_DotNet_ECommerceApp\\API\\wwwroot\\runtime.89ab3917179e2f5c.js",
       "SourceId": "API",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\a136147\\Repos\\Angular_DotNet_ECommerceApp\\API\\wwwroot\\",
       "BasePath": "_content/API",
-      "RelativePath": "runtime.1a36a8c8176a89a5.js",
+      "RelativePath": "runtime.89ab3917179e2f5c.js",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -432,7 +432,7 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\runtime.1a36a8c8176a89a5.js"
+      "OriginalItemSpec": "wwwroot\\runtime.89ab3917179e2f5c.js"
     },
     {
       "Identity": "C:\\Users\\a136147\\Repos\\Angular_DotNet_ECommerceApp\\API\\wwwroot\\styles.e03f01a639544ed3.css",

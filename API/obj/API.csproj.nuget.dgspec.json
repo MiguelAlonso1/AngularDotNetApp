@@ -1,35 +1,35 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\a136147\\Repos\\Angular_DotNet_ECommerceApp\\API\\API.csproj": {}
+    "C:\\Users\\a136147\\Repos\\Angular_DotNet_ECommerceApp - Copy\\API\\API.csproj": {}
   },
   "projects": {
-    "C:\\Users\\a136147\\Repos\\Angular_DotNet_ECommerceApp\\API\\API.csproj": {
+    "C:\\Users\\a136147\\Repos\\Angular_DotNet_ECommerceApp - Copy\\API\\API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\a136147\\Repos\\Angular_DotNet_ECommerceApp\\API\\API.csproj",
+        "projectUniqueName": "C:\\Users\\a136147\\Repos\\Angular_DotNet_ECommerceApp - Copy\\API\\API.csproj",
         "projectName": "API",
-        "projectPath": "C:\\Users\\a136147\\Repos\\Angular_DotNet_ECommerceApp\\API\\API.csproj",
+        "projectPath": "C:\\Users\\a136147\\Repos\\Angular_DotNet_ECommerceApp - Copy\\API\\API.csproj",
         "packagesPath": "C:\\Users\\a136147\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\a136147\\Repos\\Angular_DotNet_ECommerceApp\\API\\obj\\",
+        "outputPath": "C:\\Users\\a136147\\Repos\\Angular_DotNet_ECommerceApp - Copy\\API\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\a136147\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
-          "net7.0"
+          "net8.0"
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
-          "net7.0": {
-            "targetAlias": "net7.0",
+          "net8.0": {
+            "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\a136147\\Repos\\Angular_DotNet_ECommerceApp\\Infrastructure\\Infrastructure.csproj": {
-                "projectPath": "C:\\Users\\a136147\\Repos\\Angular_DotNet_ECommerceApp\\Infrastructure\\Infrastructure.csproj"
+              "C:\\Users\\a136147\\Repos\\Angular_DotNet_ECommerceApp - Copy\\Infrastructure\\Infrastructure.csproj": {
+                "projectPath": "C:\\Users\\a136147\\Repos\\Angular_DotNet_ECommerceApp - Copy\\Infrastructure\\Infrastructure.csproj"
               }
             }
           }
@@ -41,30 +41,30 @@
         }
       },
       "frameworks": {
-        "net7.0": {
-          "targetAlias": "net7.0",
+        "net8.0": {
+          "targetAlias": "net8.0",
           "dependencies": {
             "AutoMapper.Extensions.Microsoft.DependencyInjection": {
               "target": "Package",
-              "version": "[12.0.0, )"
+              "version": "[12.0.1, )"
             },
             "Microsoft.AspNetCore.Authentication.JwtBearer": {
               "target": "Package",
-              "version": "[7.0.1, )"
+              "version": "[8.0.4, )"
             },
             "Microsoft.AspNetCore.OpenApi": {
               "target": "Package",
-              "version": "[7.0.0, )"
+              "version": "[8.0.4, )"
             },
             "Microsoft.EntityFrameworkCore.Design": {
               "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
               "suppressParent": "All",
               "target": "Package",
-              "version": "[7.0.0, )"
+              "version": "[8.0.4, )"
             },
             "Swashbuckle.AspNetCore": {
               "target": "Package",
-              "version": "[6.4.0, )"
+              "version": "[6.5.0, )"
             }
           },
           "imports": [
@@ -86,33 +86,33 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.202\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.202/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\a136147\\Repos\\Angular_DotNet_ECommerceApp\\Core\\Core.csproj": {
+    "C:\\Users\\a136147\\Repos\\Angular_DotNet_ECommerceApp - Copy\\Core\\Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\a136147\\Repos\\Angular_DotNet_ECommerceApp\\Core\\Core.csproj",
+        "projectUniqueName": "C:\\Users\\a136147\\Repos\\Angular_DotNet_ECommerceApp - Copy\\Core\\Core.csproj",
         "projectName": "Core",
-        "projectPath": "C:\\Users\\a136147\\Repos\\Angular_DotNet_ECommerceApp\\Core\\Core.csproj",
+        "projectPath": "C:\\Users\\a136147\\Repos\\Angular_DotNet_ECommerceApp - Copy\\Core\\Core.csproj",
         "packagesPath": "C:\\Users\\a136147\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\a136147\\Repos\\Angular_DotNet_ECommerceApp\\Core\\obj\\",
+        "outputPath": "C:\\Users\\a136147\\Repos\\Angular_DotNet_ECommerceApp - Copy\\Core\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\a136147\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
-          "net7.0"
+          "net8.0"
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
-          "net7.0": {
-            "targetAlias": "net7.0",
+          "net8.0": {
+            "targetAlias": "net8.0",
             "projectReferences": {}
           }
         },
@@ -123,12 +123,12 @@
         }
       },
       "frameworks": {
-        "net7.0": {
-          "targetAlias": "net7.0",
+        "net8.0": {
+          "targetAlias": "net8.0",
           "dependencies": {
             "Microsoft.AspNetCore.Identity.EntityFrameworkCore": {
               "target": "Package",
-              "version": "[7.0.1, )"
+              "version": "[8.0.4, )"
             }
           },
           "imports": [
@@ -147,36 +147,36 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.202\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.202/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\a136147\\Repos\\Angular_DotNet_ECommerceApp\\Infrastructure\\Infrastructure.csproj": {
+    "C:\\Users\\a136147\\Repos\\Angular_DotNet_ECommerceApp - Copy\\Infrastructure\\Infrastructure.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\a136147\\Repos\\Angular_DotNet_ECommerceApp\\Infrastructure\\Infrastructure.csproj",
+        "projectUniqueName": "C:\\Users\\a136147\\Repos\\Angular_DotNet_ECommerceApp - Copy\\Infrastructure\\Infrastructure.csproj",
         "projectName": "Infrastructure",
-        "projectPath": "C:\\Users\\a136147\\Repos\\Angular_DotNet_ECommerceApp\\Infrastructure\\Infrastructure.csproj",
+        "projectPath": "C:\\Users\\a136147\\Repos\\Angular_DotNet_ECommerceApp - Copy\\Infrastructure\\Infrastructure.csproj",
         "packagesPath": "C:\\Users\\a136147\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\a136147\\Repos\\Angular_DotNet_ECommerceApp\\Infrastructure\\obj\\",
+        "outputPath": "C:\\Users\\a136147\\Repos\\Angular_DotNet_ECommerceApp - Copy\\Infrastructure\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\a136147\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
-          "net7.0"
+          "net8.0"
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
-          "net7.0": {
-            "targetAlias": "net7.0",
+          "net8.0": {
+            "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\a136147\\Repos\\Angular_DotNet_ECommerceApp\\Core\\Core.csproj": {
-                "projectPath": "C:\\Users\\a136147\\Repos\\Angular_DotNet_ECommerceApp\\Core\\Core.csproj"
+              "C:\\Users\\a136147\\Repos\\Angular_DotNet_ECommerceApp - Copy\\Core\\Core.csproj": {
+                "projectPath": "C:\\Users\\a136147\\Repos\\Angular_DotNet_ECommerceApp - Copy\\Core\\Core.csproj"
               }
             }
           }
@@ -188,8 +188,8 @@
         }
       },
       "frameworks": {
-        "net7.0": {
-          "targetAlias": "net7.0",
+        "net8.0": {
+          "targetAlias": "net8.0",
           "dependencies": {
             "Microsoft.AspNetCore.Identity": {
               "target": "Package",
@@ -197,17 +197,17 @@
             },
             "Microsoft.EntityFrameworkCore.SqlServer": {
               "target": "Package",
-              "version": "[7.0.18, )"
+              "version": "[8.0.4, )"
             },
             "Microsoft.EntityFrameworkCore.Sqlite": {
               "target": "Package",
-              "version": "[7.0.0, )"
+              "version": "[8.0.4, )"
             },
             "Microsoft.EntityFrameworkCore.Tools": {
               "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
               "suppressParent": "All",
               "target": "Package",
-              "version": "[7.0.18, )"
+              "version": "[8.0.4, )"
             },
             "Microsoft.IdentityModel.Tokens": {
               "target": "Package",
@@ -219,7 +219,7 @@
             },
             "Stripe.net": {
               "target": "Package",
-              "version": "[41.3.0, )"
+              "version": "[44.4.0, )"
             },
             "System.IdentityModel.Tokens.Jwt": {
               "target": "Package",
@@ -242,7 +242,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.202\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.202/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
