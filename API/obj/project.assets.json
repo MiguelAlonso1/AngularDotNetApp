@@ -5851,19 +5851,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\a136147\\.nuget\\packages\\": {}
+    "C:\\Users\\migue\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\a136147\\Repos\\Angular_DotNet_ECommerceApp - Copy\\API\\API.csproj",
+      "projectUniqueName": "C:\\Users\\migue\\source\\repos\\AngularDotnet\\API\\API.csproj",
       "projectName": "API",
-      "projectPath": "C:\\Users\\a136147\\Repos\\Angular_DotNet_ECommerceApp - Copy\\API\\API.csproj",
-      "packagesPath": "C:\\Users\\a136147\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\a136147\\Repos\\Angular_DotNet_ECommerceApp - Copy\\API\\obj\\",
+      "projectPath": "C:\\Users\\migue\\source\\repos\\AngularDotnet\\API\\API.csproj",
+      "packagesPath": "C:\\Users\\migue\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\migue\\source\\repos\\AngularDotnet\\API\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\a136147\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\migue\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -5877,8 +5877,8 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "C:\\Users\\a136147\\Repos\\Angular_DotNet_ECommerceApp - Copy\\Infrastructure\\Infrastructure.csproj": {
-              "projectPath": "C:\\Users\\a136147\\Repos\\Angular_DotNet_ECommerceApp - Copy\\Infrastructure\\Infrastructure.csproj"
+            "C:\\Users\\migue\\source\\repos\\AngularDotnet\\Infrastructure\\Infrastructure.csproj": {
+              "projectPath": "C:\\Users\\migue\\source\\repos\\AngularDotnet\\Infrastructure\\Infrastructure.csproj"
             }
           }
         }
@@ -5935,7 +5935,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.202/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "c:\\program files\\dotnet\\sdk\\8.0.204/PortableRuntimeIdentifierGraph.json"
       }
     }
   }

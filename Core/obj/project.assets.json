@@ -815,19 +815,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\a136147\\.nuget\\packages\\": {}
+    "C:\\Users\\migue\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\a136147\\Repos\\Angular_DotNet_ECommerceApp - Copy\\Core\\Core.csproj",
+      "projectUniqueName": "C:\\Users\\migue\\source\\repos\\AngularDotnet\\Core\\Core.csproj",
       "projectName": "Core",
-      "projectPath": "C:\\Users\\a136147\\Repos\\Angular_DotNet_ECommerceApp - Copy\\Core\\Core.csproj",
-      "packagesPath": "C:\\Users\\a136147\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\a136147\\Repos\\Angular_DotNet_ECommerceApp - Copy\\Core\\obj\\",
+      "projectPath": "C:\\Users\\migue\\source\\repos\\AngularDotnet\\Core\\Core.csproj",
+      "packagesPath": "C:\\Users\\migue\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\migue\\source\\repos\\AngularDotnet\\Core\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\a136147\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\migue\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -874,7 +874,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.202/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "c:\\program files\\dotnet\\sdk\\8.0.204/PortableRuntimeIdentifierGraph.json"
       }
     }
   }
