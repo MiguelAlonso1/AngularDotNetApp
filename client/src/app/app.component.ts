@@ -9,7 +9,6 @@ import { BasketService } from './basket/basket.service';
 })
 export class AppComponent implements OnInit {
   title = 'Skinet';
-
   constructor(private basketService: BasketService, private accountService: AccountService) {}
 
   ngOnInit(): void {

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "BBkEsZwTxfAB5w0081Ept8BpzbjpLYyXcxhWu/j5W6m71IrZ7r30dseFZBOtFD7XZmCNdAAC/Iyyz7/h8L3FCA==",
+  "dgSpecHash": "C0D/XUt/w/og34rtPp7HTs+WL9sevj3HHAEr2LypzeYQZhuUMNAp/TsqwfV4hVBfGa9xtQk/IZScStO53VAEfg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\migue\\source\\repos\\AngularDotnet\\Core\\Core.csproj",
+  "projectFilePath": "C:\\Users\\migue\\source\\repos\\AngularDotNetApp\\Core\\Core.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\migue\\.nuget\\packages\\microsoft.aspnetcore.cryptography.internal\\8.0.4\\microsoft.aspnetcore.cryptography.internal.8.0.4.nupkg.sha512",
     "C:\\Users\\migue\\.nuget\\packages\\microsoft.aspnetcore.cryptography.keyderivation\\8.0.4\\microsoft.aspnetcore.cryptography.keyderivation.8.0.4.nupkg.sha512",

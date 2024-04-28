@@ -820,11 +820,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\migue\\source\\repos\\AngularDotnet\\Core\\Core.csproj",
+      "projectUniqueName": "C:\\Users\\migue\\source\\repos\\AngularDotNetApp\\Core\\Core.csproj",
       "projectName": "Core",
-      "projectPath": "C:\\Users\\migue\\source\\repos\\AngularDotnet\\Core\\Core.csproj",
+      "projectPath": "C:\\Users\\migue\\source\\repos\\AngularDotNetApp\\Core\\Core.csproj",
       "packagesPath": "C:\\Users\\migue\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\migue\\source\\repos\\AngularDotnet\\Core\\obj\\",
+      "outputPath": "C:\\Users\\migue\\source\\repos\\AngularDotNetApp\\Core\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\migue\\AppData\\Roaming\\NuGet\\NuGet.Config",

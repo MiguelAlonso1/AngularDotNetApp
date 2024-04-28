@@ -1,95 +1,95 @@
 {
   "Files": [
     {
-      "Id": "C:\\Users\\migue\\source\\repos\\AngularDotnet\\API\\wwwroot\\234.878e23a2daea902e.js",
+      "Id": "C:\\Users\\migue\\source\\repos\\AngularDotNetApp\\API\\wwwroot\\234.878e23a2daea902e.js",
       "PackagePath": "staticwebassets\\234.878e23a2daea902e.js"
     },
     {
-      "Id": "C:\\Users\\migue\\source\\repos\\AngularDotnet\\API\\wwwroot\\3rdpartylicenses.txt",
+      "Id": "C:\\Users\\migue\\source\\repos\\AngularDotNetApp\\API\\wwwroot\\3rdpartylicenses.txt",
       "PackagePath": "staticwebassets\\3rdpartylicenses.txt"
     },
     {
-      "Id": "C:\\Users\\migue\\source\\repos\\AngularDotnet\\API\\wwwroot\\422.56e952366f27dd7c.js",
+      "Id": "C:\\Users\\migue\\source\\repos\\AngularDotNetApp\\API\\wwwroot\\422.56e952366f27dd7c.js",
       "PackagePath": "staticwebassets\\422.56e952366f27dd7c.js"
     },
     {
-      "Id": "C:\\Users\\migue\\source\\repos\\AngularDotnet\\API\\wwwroot\\484.abc943945414db80.js",
+      "Id": "C:\\Users\\migue\\source\\repos\\AngularDotNetApp\\API\\wwwroot\\484.abc943945414db80.js",
       "PackagePath": "staticwebassets\\484.abc943945414db80.js"
     },
     {
-      "Id": "C:\\Users\\migue\\source\\repos\\AngularDotnet\\API\\wwwroot\\733.c0b2016376b7265d.js",
+      "Id": "C:\\Users\\migue\\source\\repos\\AngularDotNetApp\\API\\wwwroot\\733.c0b2016376b7265d.js",
       "PackagePath": "staticwebassets\\733.c0b2016376b7265d.js"
     },
     {
-      "Id": "C:\\Users\\migue\\source\\repos\\AngularDotnet\\API\\wwwroot\\871.5736be08c14f2b87.js",
+      "Id": "C:\\Users\\migue\\source\\repos\\AngularDotNetApp\\API\\wwwroot\\871.5736be08c14f2b87.js",
       "PackagePath": "staticwebassets\\871.5736be08c14f2b87.js"
     },
     {
-      "Id": "C:\\Users\\migue\\source\\repos\\AngularDotnet\\API\\wwwroot\\assets\\images\\hero1.jpg",
+      "Id": "C:\\Users\\migue\\source\\repos\\AngularDotNetApp\\API\\wwwroot\\assets\\images\\hero1.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\hero1.jpg"
     },
     {
-      "Id": "C:\\Users\\migue\\source\\repos\\AngularDotnet\\API\\wwwroot\\assets\\images\\hero2.jpg",
+      "Id": "C:\\Users\\migue\\source\\repos\\AngularDotNetApp\\API\\wwwroot\\assets\\images\\hero2.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\hero2.jpg"
     },
     {
-      "Id": "C:\\Users\\migue\\source\\repos\\AngularDotnet\\API\\wwwroot\\assets\\images\\hero3.jpg",
+      "Id": "C:\\Users\\migue\\source\\repos\\AngularDotNetApp\\API\\wwwroot\\assets\\images\\hero3.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\hero3.jpg"
     },
     {
-      "Id": "C:\\Users\\migue\\source\\repos\\AngularDotnet\\API\\wwwroot\\assets\\images\\logo.png",
+      "Id": "C:\\Users\\migue\\source\\repos\\AngularDotNetApp\\API\\wwwroot\\assets\\images\\logo.png",
       "PackagePath": "staticwebassets\\assets\\images\\logo.png"
     },
     {
-      "Id": "C:\\Users\\migue\\source\\repos\\AngularDotnet\\API\\wwwroot\\assets\\images\\placeholder.png",
+      "Id": "C:\\Users\\migue\\source\\repos\\AngularDotNetApp\\API\\wwwroot\\assets\\images\\placeholder.png",
       "PackagePath": "staticwebassets\\assets\\images\\placeholder.png"
     },
     {
-      "Id": "C:\\Users\\migue\\source\\repos\\AngularDotnet\\API\\wwwroot\\common.03443be9562cdc93.js",
+      "Id": "C:\\Users\\migue\\source\\repos\\AngularDotNetApp\\API\\wwwroot\\common.03443be9562cdc93.js",
       "PackagePath": "staticwebassets\\common.03443be9562cdc93.js"
     },
     {
-      "Id": "C:\\Users\\migue\\source\\repos\\AngularDotnet\\API\\wwwroot\\favicon.ico",
+      "Id": "C:\\Users\\migue\\source\\repos\\AngularDotNetApp\\API\\wwwroot\\favicon.ico",
       "PackagePath": "staticwebassets\\favicon.ico"
     },
     {
-      "Id": "C:\\Users\\migue\\source\\repos\\AngularDotnet\\API\\wwwroot\\fontawesome-webfont.2b13baa7dd4f54c9.eot",
+      "Id": "C:\\Users\\migue\\source\\repos\\AngularDotNetApp\\API\\wwwroot\\fontawesome-webfont.2b13baa7dd4f54c9.eot",
       "PackagePath": "staticwebassets\\fontawesome-webfont.2b13baa7dd4f54c9.eot"
     },
     {
-      "Id": "C:\\Users\\migue\\source\\repos\\AngularDotnet\\API\\wwwroot\\fontawesome-webfont.8a7cb27d142e3e19.ttf",
+      "Id": "C:\\Users\\migue\\source\\repos\\AngularDotNetApp\\API\\wwwroot\\fontawesome-webfont.8a7cb27d142e3e19.ttf",
       "PackagePath": "staticwebassets\\fontawesome-webfont.8a7cb27d142e3e19.ttf"
     },
     {
-      "Id": "C:\\Users\\migue\\source\\repos\\AngularDotnet\\API\\wwwroot\\fontawesome-webfont.cf011583fb81df9f.woff",
+      "Id": "C:\\Users\\migue\\source\\repos\\AngularDotNetApp\\API\\wwwroot\\fontawesome-webfont.cf011583fb81df9f.woff",
       "PackagePath": "staticwebassets\\fontawesome-webfont.cf011583fb81df9f.woff"
     },
     {
-      "Id": "C:\\Users\\migue\\source\\repos\\AngularDotnet\\API\\wwwroot\\fontawesome-webfont.da909aa098b0ee2d.svg",
+      "Id": "C:\\Users\\migue\\source\\repos\\AngularDotNetApp\\API\\wwwroot\\fontawesome-webfont.da909aa098b0ee2d.svg",
       "PackagePath": "staticwebassets\\fontawesome-webfont.da909aa098b0ee2d.svg"
     },
     {
-      "Id": "C:\\Users\\migue\\source\\repos\\AngularDotnet\\API\\wwwroot\\fontawesome-webfont.e9955780856cf8aa.woff2",
+      "Id": "C:\\Users\\migue\\source\\repos\\AngularDotNetApp\\API\\wwwroot\\fontawesome-webfont.e9955780856cf8aa.woff2",
       "PackagePath": "staticwebassets\\fontawesome-webfont.e9955780856cf8aa.woff2"
     },
     {
-      "Id": "C:\\Users\\migue\\source\\repos\\AngularDotnet\\API\\wwwroot\\index.html",
+      "Id": "C:\\Users\\migue\\source\\repos\\AngularDotNetApp\\API\\wwwroot\\index.html",
       "PackagePath": "staticwebassets\\index.html"
     },
     {
-      "Id": "C:\\Users\\migue\\source\\repos\\AngularDotnet\\API\\wwwroot\\main.3de3c86567ba74af.js",
+      "Id": "C:\\Users\\migue\\source\\repos\\AngularDotNetApp\\API\\wwwroot\\main.3de3c86567ba74af.js",
       "PackagePath": "staticwebassets\\main.3de3c86567ba74af.js"
     },
     {
-      "Id": "C:\\Users\\migue\\source\\repos\\AngularDotnet\\API\\wwwroot\\polyfills.4a8bca3b658e5d30.js",
+      "Id": "C:\\Users\\migue\\source\\repos\\AngularDotNetApp\\API\\wwwroot\\polyfills.4a8bca3b658e5d30.js",
       "PackagePath": "staticwebassets\\polyfills.4a8bca3b658e5d30.js"
     },
     {
-      "Id": "C:\\Users\\migue\\source\\repos\\AngularDotnet\\API\\wwwroot\\runtime.27057f04cf7cb0c0.js",
+      "Id": "C:\\Users\\migue\\source\\repos\\AngularDotNetApp\\API\\wwwroot\\runtime.27057f04cf7cb0c0.js",
       "PackagePath": "staticwebassets\\runtime.27057f04cf7cb0c0.js"
     },
     {
-      "Id": "C:\\Users\\migue\\source\\repos\\AngularDotnet\\API\\wwwroot\\styles.7e899a4dd1020839.css",
+      "Id": "C:\\Users\\migue\\source\\repos\\AngularDotNetApp\\API\\wwwroot\\styles.7e899a4dd1020839.css",
       "PackagePath": "staticwebassets\\styles.7e899a4dd1020839.css"
     },
     {

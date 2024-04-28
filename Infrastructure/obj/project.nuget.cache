@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "PQTobUADi4jKc2U7WRsZJn0aYzBgFxjyRHRaPOZDT3BicTDVnFy96Z+AOo1/NynPCMUkn1eBRr2MmeuB99qxZQ==",
+  "dgSpecHash": "eK6WFnS7W+yZl9sOJ7Ey3kDWKoItErUGm1/aJSgI3zwNvUMLMODjIN3RPhr/ef3e4EiNuZQn+y35ZMvpS3F+Ng==",
   "success": true,
-  "projectFilePath": "C:\\Users\\migue\\source\\repos\\AngularDotnet\\Infrastructure\\Infrastructure.csproj",
+  "projectFilePath": "C:\\Users\\migue\\source\\repos\\AngularDotNetApp\\Infrastructure\\Infrastructure.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\migue\\.nuget\\packages\\azure.core\\1.35.0\\azure.core.1.35.0.nupkg.sha512",
     "C:\\Users\\migue\\.nuget\\packages\\azure.identity\\1.10.3\\azure.identity.1.10.3.nupkg.sha512",

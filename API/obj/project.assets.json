@@ -5856,11 +5856,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\migue\\source\\repos\\AngularDotnet\\API\\API.csproj",
+      "projectUniqueName": "C:\\Users\\migue\\source\\repos\\AngularDotNetApp\\API\\API.csproj",
       "projectName": "API",
-      "projectPath": "C:\\Users\\migue\\source\\repos\\AngularDotnet\\API\\API.csproj",
+      "projectPath": "C:\\Users\\migue\\source\\repos\\AngularDotNetApp\\API\\API.csproj",
       "packagesPath": "C:\\Users\\migue\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\migue\\source\\repos\\AngularDotnet\\API\\obj\\",
+      "outputPath": "C:\\Users\\migue\\source\\repos\\AngularDotNetApp\\API\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\migue\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -5877,8 +5877,8 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "C:\\Users\\migue\\source\\repos\\AngularDotnet\\Infrastructure\\Infrastructure.csproj": {
-              "projectPath": "C:\\Users\\migue\\source\\repos\\AngularDotnet\\Infrastructure\\Infrastructure.csproj"
+            "C:\\Users\\migue\\source\\repos\\AngularDotNetApp\\Infrastructure\\Infrastructure.csproj": {
+              "projectPath": "C:\\Users\\migue\\source\\repos\\AngularDotNetApp\\Infrastructure\\Infrastructure.csproj"
             }
           }
         }

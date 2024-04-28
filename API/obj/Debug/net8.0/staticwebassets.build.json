@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "mu/oBYv6ZfJdcwBY0CLPsuYgMBACOzxqP5J2CxzBe1k=",
+  "Hash": "bFSx7vhPkTOqucNbbM4traN2DJmJ875NTIQVfDhHnkc=",
   "Source": "API",
   "BasePath": "_content/API",
   "Mode": "Default",
@@ -10,17 +10,17 @@
     {
       "Name": "API\\wwwroot",
       "Source": "API",
-      "ContentRoot": "C:\\Users\\migue\\source\\repos\\AngularDotnet\\API\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\migue\\source\\repos\\AngularDotNetApp\\API\\wwwroot\\",
       "BasePath": "_content/API",
       "Pattern": "**"
     }
   ],
   "Assets": [
     {
-      "Identity": "C:\\Users\\migue\\source\\repos\\AngularDotnet\\API\\wwwroot\\234.878e23a2daea902e.js",
+      "Identity": "C:\\Users\\migue\\source\\repos\\AngularDotNetApp\\API\\wwwroot\\234.878e23a2daea902e.js",
       "SourceId": "API",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\migue\\source\\repos\\AngularDotnet\\API\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\migue\\source\\repos\\AngularDotNetApp\\API\\wwwroot\\",
       "BasePath": "_content/API",
       "RelativePath": "234.878e23a2daea902e.js",
       "AssetKind": "All",
@@ -36,10 +36,10 @@
       "OriginalItemSpec": "wwwroot\\234.878e23a2daea902e.js"
     },
     {
-      "Identity": "C:\\Users\\migue\\source\\repos\\AngularDotnet\\API\\wwwroot\\3rdpartylicenses.txt",
+      "Identity": "C:\\Users\\migue\\source\\repos\\AngularDotNetApp\\API\\wwwroot\\3rdpartylicenses.txt",
       "SourceId": "API",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\migue\\source\\repos\\AngularDotnet\\API\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\migue\\source\\repos\\AngularDotNetApp\\API\\wwwroot\\",
       "BasePath": "_content/API",
       "RelativePath": "3rdpartylicenses.txt",
       "AssetKind": "All",
@@ -55,10 +55,10 @@
       "OriginalItemSpec": "wwwroot\\3rdpartylicenses.txt"
     },
     {
-      "Identity": "C:\\Users\\migue\\source\\repos\\AngularDotnet\\API\\wwwroot\\422.56e952366f27dd7c.js",
+      "Identity": "C:\\Users\\migue\\source\\repos\\AngularDotNetApp\\API\\wwwroot\\422.56e952366f27dd7c.js",
       "SourceId": "API",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\migue\\source\\repos\\AngularDotnet\\API\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\migue\\source\\repos\\AngularDotNetApp\\API\\wwwroot\\",
       "BasePath": "_content/API",
       "RelativePath": "422.56e952366f27dd7c.js",
       "AssetKind": "All",
@@ -74,10 +74,10 @@
       "OriginalItemSpec": "wwwroot\\422.56e952366f27dd7c.js"
     },
     {
-      "Identity": "C:\\Users\\migue\\source\\repos\\AngularDotnet\\API\\wwwroot\\484.abc943945414db80.js",
+      "Identity": "C:\\Users\\migue\\source\\repos\\AngularDotNetApp\\API\\wwwroot\\484.abc943945414db80.js",
       "SourceId": "API",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\migue\\source\\repos\\AngularDotnet\\API\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\migue\\source\\repos\\AngularDotNetApp\\API\\wwwroot\\",
       "BasePath": "_content/API",
       "RelativePath": "484.abc943945414db80.js",
       "AssetKind": "All",
@@ -93,10 +93,10 @@
       "OriginalItemSpec": "wwwroot\\484.abc943945414db80.js"
     },
     {
-      "Identity": "C:\\Users\\migue\\source\\repos\\AngularDotnet\\API\\wwwroot\\733.c0b2016376b7265d.js",
+      "Identity": "C:\\Users\\migue\\source\\repos\\AngularDotNetApp\\API\\wwwroot\\733.c0b2016376b7265d.js",
       "SourceId": "API",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\migue\\source\\repos\\AngularDotnet\\API\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\migue\\source\\repos\\AngularDotNetApp\\API\\wwwroot\\",
       "BasePath": "_content/API",
       "RelativePath": "733.c0b2016376b7265d.js",
       "AssetKind": "All",
@@ -112,10 +112,10 @@
       "OriginalItemSpec": "wwwroot\\733.c0b2016376b7265d.js"
     },
     {
-      "Identity": "C:\\Users\\migue\\source\\repos\\AngularDotnet\\API\\wwwroot\\871.5736be08c14f2b87.js",
+      "Identity": "C:\\Users\\migue\\source\\repos\\AngularDotNetApp\\API\\wwwroot\\871.5736be08c14f2b87.js",
       "SourceId": "API",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\migue\\source\\repos\\AngularDotnet\\API\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\migue\\source\\repos\\AngularDotNetApp\\API\\wwwroot\\",
       "BasePath": "_content/API",
       "RelativePath": "871.5736be08c14f2b87.js",
       "AssetKind": "All",
@@ -131,10 +131,10 @@
       "OriginalItemSpec": "wwwroot\\871.5736be08c14f2b87.js"
     },
     {
-      "Identity": "C:\\Users\\migue\\source\\repos\\AngularDotnet\\API\\wwwroot\\assets\\images\\hero1.jpg",
+      "Identity": "C:\\Users\\migue\\source\\repos\\AngularDotNetApp\\API\\wwwroot\\assets\\images\\hero1.jpg",
       "SourceId": "API",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\migue\\source\\repos\\AngularDotnet\\API\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\migue\\source\\repos\\AngularDotNetApp\\API\\wwwroot\\",
       "BasePath": "_content/API",
       "RelativePath": "assets/images/hero1.jpg",
       "AssetKind": "All",
@@ -150,10 +150,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\images\\hero1.jpg"
     },
     {
-      "Identity": "C:\\Users\\migue\\source\\repos\\AngularDotnet\\API\\wwwroot\\assets\\images\\hero2.jpg",
+      "Identity": "C:\\Users\\migue\\source\\repos\\AngularDotNetApp\\API\\wwwroot\\assets\\images\\hero2.jpg",
       "SourceId": "API",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\migue\\source\\repos\\AngularDotnet\\API\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\migue\\source\\repos\\AngularDotNetApp\\API\\wwwroot\\",
       "BasePath": "_content/API",
       "RelativePath": "assets/images/hero2.jpg",
       "AssetKind": "All",
@@ -169,10 +169,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\images\\hero2.jpg"
     },
     {
-      "Identity": "C:\\Users\\migue\\source\\repos\\AngularDotnet\\API\\wwwroot\\assets\\images\\hero3.jpg",
+      "Identity": "C:\\Users\\migue\\source\\repos\\AngularDotNetApp\\API\\wwwroot\\assets\\images\\hero3.jpg",
       "SourceId": "API",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\migue\\source\\repos\\AngularDotnet\\API\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\migue\\source\\repos\\AngularDotNetApp\\API\\wwwroot\\",
       "BasePath": "_content/API",
       "RelativePath": "assets/images/hero3.jpg",
       "AssetKind": "All",
@@ -188,10 +188,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\images\\hero3.jpg"
     },
     {
-      "Identity": "C:\\Users\\migue\\source\\repos\\AngularDotnet\\API\\wwwroot\\assets\\images\\logo.png",
+      "Identity": "C:\\Users\\migue\\source\\repos\\AngularDotNetApp\\API\\wwwroot\\assets\\images\\logo.png",
       "SourceId": "API",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\migue\\source\\repos\\AngularDotnet\\API\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\migue\\source\\repos\\AngularDotNetApp\\API\\wwwroot\\",
       "BasePath": "_content/API",
       "RelativePath": "assets/images/logo.png",
       "AssetKind": "All",
@@ -207,10 +207,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\images\\logo.png"
     },
     {
-      "Identity": "C:\\Users\\migue\\source\\repos\\AngularDotnet\\API\\wwwroot\\assets\\images\\placeholder.png",
+      "Identity": "C:\\Users\\migue\\source\\repos\\AngularDotNetApp\\API\\wwwroot\\assets\\images\\placeholder.png",
       "SourceId": "API",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\migue\\source\\repos\\AngularDotnet\\API\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\migue\\source\\repos\\AngularDotNetApp\\API\\wwwroot\\",
       "BasePath": "_content/API",
       "RelativePath": "assets/images/placeholder.png",
       "AssetKind": "All",
@@ -226,10 +226,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\images\\placeholder.png"
     },
     {
-      "Identity": "C:\\Users\\migue\\source\\repos\\AngularDotnet\\API\\wwwroot\\common.03443be9562cdc93.js",
+      "Identity": "C:\\Users\\migue\\source\\repos\\AngularDotNetApp\\API\\wwwroot\\common.03443be9562cdc93.js",
       "SourceId": "API",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\migue\\source\\repos\\AngularDotnet\\API\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\migue\\source\\repos\\AngularDotNetApp\\API\\wwwroot\\",
       "BasePath": "_content/API",
       "RelativePath": "common.03443be9562cdc93.js",
       "AssetKind": "All",
@@ -245,10 +245,10 @@
       "OriginalItemSpec": "wwwroot\\common.03443be9562cdc93.js"
     },
     {
-      "Identity": "C:\\Users\\migue\\source\\repos\\AngularDotnet\\API\\wwwroot\\favicon.ico",
+      "Identity": "C:\\Users\\migue\\source\\repos\\AngularDotNetApp\\API\\wwwroot\\favicon.ico",
       "SourceId": "API",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\migue\\source\\repos\\AngularDotnet\\API\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\migue\\source\\repos\\AngularDotNetApp\\API\\wwwroot\\",
       "BasePath": "_content/API",
       "RelativePath": "favicon.ico",
       "AssetKind": "All",
@@ -264,10 +264,10 @@
       "OriginalItemSpec": "wwwroot\\favicon.ico"
     },
     {
-      "Identity": "C:\\Users\\migue\\source\\repos\\AngularDotnet\\API\\wwwroot\\fontawesome-webfont.2b13baa7dd4f54c9.eot",
+      "Identity": "C:\\Users\\migue\\source\\repos\\AngularDotNetApp\\API\\wwwroot\\fontawesome-webfont.2b13baa7dd4f54c9.eot",
       "SourceId": "API",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\migue\\source\\repos\\AngularDotnet\\API\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\migue\\source\\repos\\AngularDotNetApp\\API\\wwwroot\\",
       "BasePath": "_content/API",
       "RelativePath": "fontawesome-webfont.2b13baa7dd4f54c9.eot",
       "AssetKind": "All",
@@ -283,10 +283,10 @@
       "OriginalItemSpec": "wwwroot\\fontawesome-webfont.2b13baa7dd4f54c9.eot"
     },
     {
-      "Identity": "C:\\Users\\migue\\source\\repos\\AngularDotnet\\API\\wwwroot\\fontawesome-webfont.8a7cb27d142e3e19.ttf",
+      "Identity": "C:\\Users\\migue\\source\\repos\\AngularDotNetApp\\API\\wwwroot\\fontawesome-webfont.8a7cb27d142e3e19.ttf",
       "SourceId": "API",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\migue\\source\\repos\\AngularDotnet\\API\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\migue\\source\\repos\\AngularDotNetApp\\API\\wwwroot\\",
       "BasePath": "_content/API",
       "RelativePath": "fontawesome-webfont.8a7cb27d142e3e19.ttf",
       "AssetKind": "All",
@@ -302,10 +302,10 @@
       "OriginalItemSpec": "wwwroot\\fontawesome-webfont.8a7cb27d142e3e19.ttf"
     },
     {
-      "Identity": "C:\\Users\\migue\\source\\repos\\AngularDotnet\\API\\wwwroot\\fontawesome-webfont.cf011583fb81df9f.woff",
+      "Identity": "C:\\Users\\migue\\source\\repos\\AngularDotNetApp\\API\\wwwroot\\fontawesome-webfont.cf011583fb81df9f.woff",
       "SourceId": "API",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\migue\\source\\repos\\AngularDotnet\\API\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\migue\\source\\repos\\AngularDotNetApp\\API\\wwwroot\\",
       "BasePath": "_content/API",
       "RelativePath": "fontawesome-webfont.cf011583fb81df9f.woff",
       "AssetKind": "All",
@@ -321,10 +321,10 @@
       "OriginalItemSpec": "wwwroot\\fontawesome-webfont.cf011583fb81df9f.woff"
     },
     {
-      "Identity": "C:\\Users\\migue\\source\\repos\\AngularDotnet\\API\\wwwroot\\fontawesome-webfont.da909aa098b0ee2d.svg",
+      "Identity": "C:\\Users\\migue\\source\\repos\\AngularDotNetApp\\API\\wwwroot\\fontawesome-webfont.da909aa098b0ee2d.svg",
       "SourceId": "API",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\migue\\source\\repos\\AngularDotnet\\API\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\migue\\source\\repos\\AngularDotNetApp\\API\\wwwroot\\",
       "BasePath": "_content/API",
       "RelativePath": "fontawesome-webfont.da909aa098b0ee2d.svg",
       "AssetKind": "All",
@@ -340,10 +340,10 @@
       "OriginalItemSpec": "wwwroot\\fontawesome-webfont.da909aa098b0ee2d.svg"
     },
     {
-      "Identity": "C:\\Users\\migue\\source\\repos\\AngularDotnet\\API\\wwwroot\\fontawesome-webfont.e9955780856cf8aa.woff2",
+      "Identity": "C:\\Users\\migue\\source\\repos\\AngularDotNetApp\\API\\wwwroot\\fontawesome-webfont.e9955780856cf8aa.woff2",
       "SourceId": "API",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\migue\\source\\repos\\AngularDotnet\\API\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\migue\\source\\repos\\AngularDotNetApp\\API\\wwwroot\\",
       "BasePath": "_content/API",
       "RelativePath": "fontawesome-webfont.e9955780856cf8aa.woff2",
       "AssetKind": "All",
@@ -359,10 +359,10 @@
       "OriginalItemSpec": "wwwroot\\fontawesome-webfont.e9955780856cf8aa.woff2"
     },
     {
-      "Identity": "C:\\Users\\migue\\source\\repos\\AngularDotnet\\API\\wwwroot\\index.html",
+      "Identity": "C:\\Users\\migue\\source\\repos\\AngularDotNetApp\\API\\wwwroot\\index.html",
       "SourceId": "API",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\migue\\source\\repos\\AngularDotnet\\API\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\migue\\source\\repos\\AngularDotNetApp\\API\\wwwroot\\",
       "BasePath": "_content/API",
       "RelativePath": "index.html",
       "AssetKind": "All",
@@ -378,10 +378,10 @@
       "OriginalItemSpec": "wwwroot\\index.html"
     },
     {
-      "Identity": "C:\\Users\\migue\\source\\repos\\AngularDotnet\\API\\wwwroot\\main.3de3c86567ba74af.js",
+      "Identity": "C:\\Users\\migue\\source\\repos\\AngularDotNetApp\\API\\wwwroot\\main.3de3c86567ba74af.js",
       "SourceId": "API",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\migue\\source\\repos\\AngularDotnet\\API\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\migue\\source\\repos\\AngularDotNetApp\\API\\wwwroot\\",
       "BasePath": "_content/API",
       "RelativePath": "main.3de3c86567ba74af.js",
       "AssetKind": "All",
@@ -397,10 +397,10 @@
       "OriginalItemSpec": "wwwroot\\main.3de3c86567ba74af.js"
     },
     {
-      "Identity": "C:\\Users\\migue\\source\\repos\\AngularDotnet\\API\\wwwroot\\polyfills.4a8bca3b658e5d30.js",
+      "Identity": "C:\\Users\\migue\\source\\repos\\AngularDotNetApp\\API\\wwwroot\\polyfills.4a8bca3b658e5d30.js",
       "SourceId": "API",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\migue\\source\\repos\\AngularDotnet\\API\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\migue\\source\\repos\\AngularDotNetApp\\API\\wwwroot\\",
       "BasePath": "_content/API",
       "RelativePath": "polyfills.4a8bca3b658e5d30.js",
       "AssetKind": "All",
@@ -416,10 +416,10 @@
       "OriginalItemSpec": "wwwroot\\polyfills.4a8bca3b658e5d30.js"
     },
     {
-      "Identity": "C:\\Users\\migue\\source\\repos\\AngularDotnet\\API\\wwwroot\\runtime.27057f04cf7cb0c0.js",
+      "Identity": "C:\\Users\\migue\\source\\repos\\AngularDotNetApp\\API\\wwwroot\\runtime.27057f04cf7cb0c0.js",
       "SourceId": "API",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\migue\\source\\repos\\AngularDotnet\\API\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\migue\\source\\repos\\AngularDotNetApp\\API\\wwwroot\\",
       "BasePath": "_content/API",
       "RelativePath": "runtime.27057f04cf7cb0c0.js",
       "AssetKind": "All",
@@ -435,10 +435,10 @@
       "OriginalItemSpec": "wwwroot\\runtime.27057f04cf7cb0c0.js"
     },
     {
-      "Identity": "C:\\Users\\migue\\source\\repos\\AngularDotnet\\API\\wwwroot\\styles.7e899a4dd1020839.css",
+      "Identity": "C:\\Users\\migue\\source\\repos\\AngularDotNetApp\\API\\wwwroot\\styles.7e899a4dd1020839.css",
       "SourceId": "API",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\migue\\source\\repos\\AngularDotnet\\API\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\migue\\source\\repos\\AngularDotNetApp\\API\\wwwroot\\",
       "BasePath": "_content/API",
       "RelativePath": "styles.7e899a4dd1020839.css",
       "AssetKind": "All",
