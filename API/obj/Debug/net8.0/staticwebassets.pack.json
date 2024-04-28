@@ -1,28 +1,28 @@
 {
   "Files": [
     {
-      "Id": "C:\\Users\\migue\\source\\repos\\AngularDotnet\\API\\wwwroot\\187.3f89f8dda6e8a837.js",
-      "PackagePath": "staticwebassets\\187.3f89f8dda6e8a837.js"
-    },
-    {
-      "Id": "C:\\Users\\migue\\source\\repos\\AngularDotnet\\API\\wwwroot\\207.94788854e2426271.js",
-      "PackagePath": "staticwebassets\\207.94788854e2426271.js"
-    },
-    {
-      "Id": "C:\\Users\\migue\\source\\repos\\AngularDotnet\\API\\wwwroot\\333.d3c995fcef704013.js",
-      "PackagePath": "staticwebassets\\333.d3c995fcef704013.js"
+      "Id": "C:\\Users\\migue\\source\\repos\\AngularDotnet\\API\\wwwroot\\234.878e23a2daea902e.js",
+      "PackagePath": "staticwebassets\\234.878e23a2daea902e.js"
     },
     {
       "Id": "C:\\Users\\migue\\source\\repos\\AngularDotnet\\API\\wwwroot\\3rdpartylicenses.txt",
       "PackagePath": "staticwebassets\\3rdpartylicenses.txt"
     },
     {
-      "Id": "C:\\Users\\migue\\source\\repos\\AngularDotnet\\API\\wwwroot\\481.9a797fbd8f5fd2a9.js",
-      "PackagePath": "staticwebassets\\481.9a797fbd8f5fd2a9.js"
+      "Id": "C:\\Users\\migue\\source\\repos\\AngularDotnet\\API\\wwwroot\\422.56e952366f27dd7c.js",
+      "PackagePath": "staticwebassets\\422.56e952366f27dd7c.js"
     },
     {
-      "Id": "C:\\Users\\migue\\source\\repos\\AngularDotnet\\API\\wwwroot\\920.1882ac29d9f06436.js",
-      "PackagePath": "staticwebassets\\920.1882ac29d9f06436.js"
+      "Id": "C:\\Users\\migue\\source\\repos\\AngularDotnet\\API\\wwwroot\\484.abc943945414db80.js",
+      "PackagePath": "staticwebassets\\484.abc943945414db80.js"
+    },
+    {
+      "Id": "C:\\Users\\migue\\source\\repos\\AngularDotnet\\API\\wwwroot\\733.c0b2016376b7265d.js",
+      "PackagePath": "staticwebassets\\733.c0b2016376b7265d.js"
+    },
+    {
+      "Id": "C:\\Users\\migue\\source\\repos\\AngularDotnet\\API\\wwwroot\\871.5736be08c14f2b87.js",
+      "PackagePath": "staticwebassets\\871.5736be08c14f2b87.js"
     },
     {
       "Id": "C:\\Users\\migue\\source\\repos\\AngularDotnet\\API\\wwwroot\\assets\\images\\hero1.jpg",
@@ -45,8 +45,8 @@
       "PackagePath": "staticwebassets\\assets\\images\\placeholder.png"
     },
     {
-      "Id": "C:\\Users\\migue\\source\\repos\\AngularDotnet\\API\\wwwroot\\common.bd884877f7f0ba29.js",
-      "PackagePath": "staticwebassets\\common.bd884877f7f0ba29.js"
+      "Id": "C:\\Users\\migue\\source\\repos\\AngularDotnet\\API\\wwwroot\\common.03443be9562cdc93.js",
+      "PackagePath": "staticwebassets\\common.03443be9562cdc93.js"
     },
     {
       "Id": "C:\\Users\\migue\\source\\repos\\AngularDotnet\\API\\wwwroot\\favicon.ico",
@@ -77,20 +77,20 @@
       "PackagePath": "staticwebassets\\index.html"
     },
     {
-      "Id": "C:\\Users\\migue\\source\\repos\\AngularDotnet\\API\\wwwroot\\main.1b50771fe157b452.js",
-      "PackagePath": "staticwebassets\\main.1b50771fe157b452.js"
+      "Id": "C:\\Users\\migue\\source\\repos\\AngularDotnet\\API\\wwwroot\\main.3de3c86567ba74af.js",
+      "PackagePath": "staticwebassets\\main.3de3c86567ba74af.js"
     },
     {
-      "Id": "C:\\Users\\migue\\source\\repos\\AngularDotnet\\API\\wwwroot\\polyfills.f91a65f870354b2e.js",
-      "PackagePath": "staticwebassets\\polyfills.f91a65f870354b2e.js"
+      "Id": "C:\\Users\\migue\\source\\repos\\AngularDotnet\\API\\wwwroot\\polyfills.4a8bca3b658e5d30.js",
+      "PackagePath": "staticwebassets\\polyfills.4a8bca3b658e5d30.js"
     },
     {
-      "Id": "C:\\Users\\migue\\source\\repos\\AngularDotnet\\API\\wwwroot\\runtime.89ab3917179e2f5c.js",
-      "PackagePath": "staticwebassets\\runtime.89ab3917179e2f5c.js"
+      "Id": "C:\\Users\\migue\\source\\repos\\AngularDotnet\\API\\wwwroot\\runtime.27057f04cf7cb0c0.js",
+      "PackagePath": "staticwebassets\\runtime.27057f04cf7cb0c0.js"
     },
     {
-      "Id": "C:\\Users\\migue\\source\\repos\\AngularDotnet\\API\\wwwroot\\styles.e03f01a639544ed3.css",
-      "PackagePath": "staticwebassets\\styles.e03f01a639544ed3.css"
+      "Id": "C:\\Users\\migue\\source\\repos\\AngularDotnet\\API\\wwwroot\\styles.7e899a4dd1020839.css",
+      "PackagePath": "staticwebassets\\styles.7e899a4dd1020839.css"
     },
     {
       "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.API.Microsoft.AspNetCore.StaticWebAssets.props",
